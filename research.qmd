@@ -11,6 +11,8 @@ A central question motivating my work is whether forests experiencing increasing
 
 My dissertation, *Hot-Dry Extremes, Disturbance, and Carbon Source–Sink Decoupling in Eastern Temperate Forests*, addresses this question through three complementary studies, integrating long-term forest observations, tree-ring and dendrometer measurements, flux-tower data, and remote sensing.
 
+![Jen Jordan conducting forest ecology fieldwork.](images/research-fieldwork.jpeg){width=65% fig-align="center"}
+
 ## Climate Extremes and Tree Growth
 
 **How do the timing, duration, and persistence of heat and atmospheric drought influence woody growth?**
