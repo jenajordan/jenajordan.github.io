@@ -14,7 +14,7 @@ title-block-style: none
 
 ::: {.column width="35%"}
 
-![Jen Jordan participating in fieldwork with colleagues at SCBI](images/jen-fieldwork.png){width="100%"}
+![Terrestrial LiDAR fieldwork with colleagues at the Smithsonian Conservation Biology Institute](images/jen-fieldwork.png){width="100%"}
 
 :::
 
