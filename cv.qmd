@@ -13,11 +13,29 @@ title-block-style: none
 
 ::: {.interior-content}
 
-
 ## Curriculum Vitae
 
 [**Download my academic CV (PDF)**](Jen_Jordan_CV.pdf)
 
+## Education & Research Affiliations
+
+**PhD Candidate, Environmental Science and Policy**  
+[George Mason University — Environmental Science and Policy](https://science.gmu.edu/academics/departments-units/environmental-science-policy){target="_blank"}
+
+**Predoctoral Fellow**  
+Smithsonian Conservation Biology Institute  
+[Ecosystems & Climate Lab](https://ecoclimlab.github.io){target="_blank"}
+
+## Dissertation
+
+*Hot-Dry Extremes, Disturbance, and Carbon Source–Sink Decoupling in Eastern Temperate Forests*
+
+### Dissertation Committee
+
+- **Dr. Rebecca Forkner** — Primary Advisor, George Mason University
+- **Dr. Kristina J. Anderson-Teixeira** — Committee Member, Smithsonian Conservation Biology Institute; Director, Ecosystems & Climate Lab
+- **Dr. Paul Dirmeyer** — Committee Member, George Mason University
+- **Dr. Luca L. Morreale** — Committee Member
 
 ## Contact
 
@@ -25,6 +43,6 @@ I welcome inquiries about research collaborations, postdoctoral opportunities, a
 
 **Email:** [jjorda8@gmu.edu](mailto:jjorda8@gmu.edu)
 
-**Scholarly profiles:** [ORCID](https://orcid.org/0000-0001-5521-360X)
+**Scholarly Profile:** [ORCID](https://orcid.org/0000-0001-5521-360X){target="_blank"}
 
 :::

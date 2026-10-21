@@ -140,11 +140,32 @@ ul.task-list li input[type="checkbox"] {
 <h2 class="anchored" data-anchor-id="curriculum-vitae">Curriculum Vitae</h2>
 <p><a href="Jen_Jordan_CV.pdf"><strong>Download my academic CV (PDF)</strong></a></p>
 </section>
+<section id="education-research-affiliations" class="level2">
+<h2 class="anchored" data-anchor-id="education-research-affiliations">Education &amp; Research Affiliations</h2>
+<p><strong>PhD Candidate, Environmental Science and Policy</strong><br>
+<a href="https://science.gmu.edu/academics/departments-units/environmental-science-policy" target="_blank">George Mason University — Environmental Science and Policy</a></p>
+<p><strong>Predoctoral Fellow</strong><br>
+Smithsonian Conservation Biology Institute<br>
+<a href="https://ecoclimlab.github.io" target="_blank">Ecosystems &amp; Climate Lab</a></p>
+</section>
+<section id="dissertation" class="level2">
+<h2 class="anchored" data-anchor-id="dissertation">Dissertation</h2>
+<p><em>Hot-Dry Extremes, Disturbance, and Carbon Source–Sink Decoupling in Eastern Temperate Forests</em></p>
+<section id="dissertation-committee" class="level3">
+<h3 class="anchored" data-anchor-id="dissertation-committee">Dissertation Committee</h3>
+<ul>
+<li><strong>Dr.&nbsp;Rebecca Forkner</strong> — Primary Advisor, George Mason University</li>
+<li><strong>Dr.&nbsp;Kristina J. Anderson-Teixeira</strong> — Committee Member, Smithsonian Conservation Biology Institute; Director, Ecosystems &amp; Climate Lab</li>
+<li><strong>Dr.&nbsp;Paul Dirmeyer</strong> — Committee Member, George Mason University</li>
+<li><strong>Dr.&nbsp;Luca L. Morreale</strong> — Committee Member</li>
+</ul>
+</section>
+</section>
 <section id="contact" class="level2">
 <h2 class="anchored" data-anchor-id="contact">Contact</h2>
 <p>I welcome inquiries about research collaborations, postdoctoral opportunities, and forest ecology research.</p>
 <p><strong>Email:</strong> <a href="mailto:jjorda8@gmu.edu">jjorda8@gmu.edu</a></p>
-<p><strong>Scholarly profiles:</strong> <a href="https://orcid.org/0000-0001-5521-360X">ORCID</a></p>
+<p><strong>Scholarly Profile:</strong> <a href="https://orcid.org/0000-0001-5521-360X" target="_blank">ORCID</a></p>
 </section>
 </div>
 
@@ -238,6 +259,11 @@ ul.task-list li input[type="checkbox"] {
           if (link.dataset.originalHref !== undefined) {
             link.href = link.dataset.originalHref;
           }
+            // target, if specified
+            link.setAttribute("target", "_blank");
+            if (link.getAttribute("rel") === null) {
+              link.setAttribute("rel", "noopener");
+            }
         }
       }
     function tippyHover(el, contentFn, onTriggerFn, onUntriggerFn) {
