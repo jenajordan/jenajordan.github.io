@@ -1,17 +1,10 @@
 [
   {
-    "objectID": "cv.html",
-    "href": "cv.html",
-    "title": "CV & Contact",
-    "section": "",
-    "text": "Download my academic CV (PDF)"
-  },
-  {
     "objectID": "cv.html#curriculum-vitae",
     "href": "cv.html#curriculum-vitae",
     "title": "CV & Contact",
-    "section": "",
-    "text": "Download my academic CV (PDF)"
+    "section": "Curriculum Vitae",
+    "text": "Curriculum Vitae\nDownload my academic CV (PDF)"
   },
   {
     "objectID": "cv.html#contact",
@@ -35,18 +28,11 @@
     "text": "Research Themes\nClimate Extremes and Forest Growth\nHow the timing, duration, and persistence of extreme heat and atmospheric drought affect woody growth.\nCarbon Uptake and Woody Biomass\nWhen canopy carbon uptake and long-lived woody biomass accumulation diverge under climate stress.\nForest Disturbance and Resilience\nHow non-lethal crown damage influences tree growth and stand-level forest productivity.\nLearn more about my research →"
   },
   {
-    "objectID": "research.html",
-    "href": "research.html",
-    "title": "Research",
-    "section": "",
-    "text": "My research investigates how climate extremes and disturbance affect forest growth, woody carbon accumulation, and the resilience of eastern U.S. temperate forests as carbon sinks.\nA central question motivating my work is whether forests experiencing increasing heat and atmospheric drought can continue to convert photosynthetically assimilated carbon into long-lived woody biomass.\nMy dissertation, Hot-Dry Extremes, Disturbance, and Carbon Source–Sink Decoupling in Eastern Temperate Forests, addresses this question through three complementary studies, integrating long-term forest observations, tree-ring and dendrometer measurements, flux-tower data, and remote sensing.\n\n\n\nJen Jordan conducting forest ecology fieldwork."
-  },
-  {
     "objectID": "research.html#research-overview",
     "href": "research.html#research-overview",
     "title": "Research",
-    "section": "",
-    "text": "My research investigates how climate extremes and disturbance affect forest growth, woody carbon accumulation, and the resilience of eastern U.S. temperate forests as carbon sinks.\nA central question motivating my work is whether forests experiencing increasing heat and atmospheric drought can continue to convert photosynthetically assimilated carbon into long-lived woody biomass.\nMy dissertation, Hot-Dry Extremes, Disturbance, and Carbon Source–Sink Decoupling in Eastern Temperate Forests, addresses this question through three complementary studies, integrating long-term forest observations, tree-ring and dendrometer measurements, flux-tower data, and remote sensing.\n\n\n\nJen Jordan conducting forest ecology fieldwork."
+    "section": "Research Overview",
+    "text": "Research Overview\n\n\nMy research investigates how climate extremes and disturbance affect forest growth, woody carbon accumulation, and the resilience of eastern U.S. temperate forests as carbon sinks.\nA central question motivating my work is whether forests experiencing increasing heat and atmospheric drought can continue to convert photosynthetically assimilated carbon into long-lived woody biomass.\nMy dissertation, Hot-Dry Extremes, Disturbance, and Carbon Source–Sink Decoupling in Eastern Temperate Forests, addresses this question through three complementary studies, integrating long-term forest observations, tree-ring and dendrometer measurements, flux-tower data, and remote sensing.\n\n\n\n\nTree-growth monitoring at the SCBI ForestGEO plot."
   },
   {
     "objectID": "research.html#climate-extremes-and-tree-growth",
@@ -84,44 +70,37 @@
     "text": "Dissertation\nHot-Dry Extremes, Disturbance, and Carbon Source–Sink Decoupling in Eastern Temperate Forests\nPhD in Environmental Science and Policy, George Mason University\nSmithsonian Conservation Biology Institute — ForestGEO Ecosystems and Climate Program"
   },
   {
-    "objectID": "publications.html",
-    "href": "publications.html",
-    "title": "Publications & Research Outputs",
-    "section": "",
-    "text": "Jordan, J. A. (2025). Marine Carbon Dioxide Removal: NOAA Policy Priorities for Efficacy and Risk Reduction. Journal of Science Policy & Governance. https://doi.org/10.38126/jspg260103\nKim, A. Y., Herrmann, V., Barreto, R., Calkins, B., Gonzalez-Akre, E., Johnson, D. J., Jordan, J. A., Magee, L., McGregor, I. R., Montero, N., et al. (2022). Implementing GitHub Actions continuous integration to reduce error rates in ecological data collection. Methods in Ecology and Evolution. https://doi.org/10.1111/2041-210X.13982"
-  },
-  {
     "objectID": "publications.html#peer-reviewed-publications",
     "href": "publications.html#peer-reviewed-publications",
-    "title": "Publications & Research Outputs",
-    "section": "",
-    "text": "Jordan, J. A. (2025). Marine Carbon Dioxide Removal: NOAA Policy Priorities for Efficacy and Risk Reduction. Journal of Science Policy & Governance. https://doi.org/10.38126/jspg260103\nKim, A. Y., Herrmann, V., Barreto, R., Calkins, B., Gonzalez-Akre, E., Johnson, D. J., Jordan, J. A., Magee, L., McGregor, I. R., Montero, N., et al. (2022). Implementing GitHub Actions continuous integration to reduce error rates in ecological data collection. Methods in Ecology and Evolution. https://doi.org/10.1111/2041-210X.13982"
+    "title": "Publications & Manuscripts",
+    "section": "Peer-Reviewed Publications",
+    "text": "Peer-Reviewed Publications\nJordan, J. A. (2025). Marine Carbon Dioxide Removal: NOAA Policy Priorities for Efficacy and Risk Reduction. Journal of Science Policy & Governance. https://doi.org/10.38126/jspg260103\nKim, A. Y., Herrmann, V., Barreto, R., Calkins, B., Gonzalez-Akre, E., Johnson, D. J., Jordan, J. A., Magee, L., McGregor, I. R., Montero, N., et al. (2022). Implementing GitHub Actions continuous integration to reduce error rates in ecological data collection. Methods in Ecology and Evolution. https://doi.org/10.1111/2041-210X.13982"
   },
   {
     "objectID": "publications.html#manuscripts-in-preparation",
     "href": "publications.html#manuscripts-in-preparation",
-    "title": "Publications & Research Outputs",
+    "title": "Publications & Manuscripts",
     "section": "Manuscripts in Preparation",
     "text": "Manuscripts in Preparation\nJordan, J., Morreale, L. L., McShea, W. J., Anderson-Teixeira, K. J., Kim, A., Magee, L., Shue, J., Bourg, N., & Mitre, D.\nNon-lethal crown damage is associated with reduced tree growth and lowered woody productivity in a temperate deciduous forest.\nManuscript in preparation.\nThis study examines how non-lethal crown damage is associated with reduced individual-tree growth and stand-level aboveground woody productivity in a temperate deciduous forest.\nUsing long-term forest monitoring data from the Smithsonian Conservation Biology Institute (SCBI) ForestGEO plot, the research evaluates how structural damage can affect forest carbon accumulation even when trees survive."
   },
   {
     "objectID": "publications.html#research-datasets",
     "href": "publications.html#research-datasets",
-    "title": "Publications & Research Outputs",
+    "title": "Publications & Manuscripts",
     "section": "Research Datasets",
     "text": "Research Datasets\nSCBI-ForestGEO/Dendrobands: First Official Release (v2021.10.05) (2021).\nZenodo. Contributor to the Smithsonian ForestGEO dendroband dataset.\nSCBI-ForestGEO/SCBImortality: First Official Release (v2021.10.05) (2021).\nZenodo. Contributor to the Smithsonian ForestGEO tree mortality dataset."
   },
   {
     "objectID": "publications.html#additional-publications",
     "href": "publications.html#additional-publications",
-    "title": "Publications & Research Outputs",
+    "title": "Publications & Manuscripts",
     "section": "Additional Publications",
     "text": "Additional Publications\nJordan, J. A., & Nadel, S. (1992). Does the Rat Smell the Cheese? A Preliminary Evaluation of Financial Incentives Provided to Utilities. In Regulatory Incentives for Demand-Side Management.\nJordan, J. A., & Nadel, S. (1991). End-Use Industrial Energy Demand & Conservation Potential. In America’s Energy Choices: Investing in a Strong Economy and a Clean Environment."
   },
   {
     "objectID": "publications.html#scholarly-profile",
     "href": "publications.html#scholarly-profile",
-    "title": "Publications & Research Outputs",
+    "title": "Publications & Manuscripts",
     "section": "Scholarly Profile",
     "text": "Scholarly Profile\nORCID: 0000-0001-5521-360X"
   }

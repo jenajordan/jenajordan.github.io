@@ -217,3 +217,86 @@ a:hover {
     max-width: 350px;
   }
 }
+
+/* =========================================
+   Research Overview: text and photograph
+   ========================================= */
+
+/* Two clearly separated columns */
+#research-overview + .columns {
+  display: grid;
+  grid-template-columns: minmax(0, 1.6fr) minmax(0, 1fr);
+  column-gap: 3.5rem;
+  align-items: start;
+}
+
+/* Research text column */
+#research-overview + .columns > .column:first-child {
+  width: auto !important;
+  max-width: none !important;
+  min-width: 0;
+  padding: 0;
+  margin: 0;
+}
+
+/* Research photo column */
+#research-overview + .columns > .column:last-child {
+  width: auto !important;
+  max-width: none !important;
+  min-width: 0;
+  padding: 0;
+  margin: 0;
+}
+
+/* Research photograph */
+#research-overview + .columns img {
+  display: block;
+  width: 100%;
+  height: auto;
+  border-radius: 6px;
+}
+
+/* Research photograph caption */
+#research-overview + .columns figcaption {
+  font-size: 0.8rem;
+  line-height: 1.4;
+  color: #65736A;
+  margin-top: 0.5rem;
+}
+
+/* Stack the text and photograph on smaller screens */
+@media (max-width: 768px) {
+  #research-overview + .columns {
+    display: grid;
+    grid-template-columns: 1fr;
+    row-gap: 1.5rem;
+  }
+
+  #research-overview + .columns img {
+    max-width: 320px;
+  }
+}
+
+/* =========================================
+   Research, Publications, and CV pages
+   ========================================= */
+
+/* Keep interior page content neatly centered */
+.interior-content {
+  max-width: 1100px;
+  margin: 3rem auto;
+  padding: 0 2rem;
+}
+
+/* Prevent extra space above the first heading */
+.interior-content > h2:first-child {
+  margin-top: 0;
+}
+
+/* Smaller margins on phones */
+@media (max-width: 768px) {
+  .interior-content {
+    margin: 2rem auto;
+    padding: 0 1.25rem;
+  }
+}
