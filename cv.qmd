@@ -23,19 +23,21 @@ title-block-style: none
 [George Mason University — Environmental Science and Policy](https://science.gmu.edu/academics/departments-units/environmental-science-policy){target="_blank"}
 
 **Predoctoral Fellow**  
-Smithsonian Conservation Biology Institute  
-[Ecosystems & Climate Lab](https://ecoclimlab.github.io){target="_blank"}
+[Smithsonian ForestGEO Ecosystems & Climate Lab](https://ecoclimlab.github.io){target="_blank"}
 
 ## Dissertation
 
 *Hot-Dry Extremes, Disturbance, and Carbon Source–Sink Decoupling in Eastern Temperate Forests*
 
+
 ### Dissertation Committee
 
-- **Dr. Rebecca Forkner** — Primary Advisor, George Mason University
-- **Dr. Kristina J. Anderson-Teixeira** — Committee Member, Smithsonian Conservation Biology Institute; Director, Ecosystems & Climate Lab
-- **Dr. Paul Dirmeyer** — Committee Member, George Mason University
-- **Dr. Luca L. Morreale** — Committee Member
+- **[Dr. Rebecca E. Forkner](https://science.gmu.edu/directory/rebecca-forkner){target="_blank"}** — Primary Advisor, George Mason University
+- **[Dr. Kristina J. Anderson-Teixeira](https://forestgeo.si.edu/kristina-j-anderson-teixeira){target="_blank"}** — Committee Member, Smithsonian ForestGEO Ecosystems & Climate Program Director
+- **[Dr. Paul A. Dirmeyer](https://science.gmu.edu/directory/paul-dirmeyer){target="_blank"}** — Committee Member, George Mason University
+- **[Dr. Luca L. Morreale](https://www.umces.edu/directory/luca-morreale/){target="_blank"}** — Committee Member, University of Maryland Center for Environmental Science
+
+
 
 ## Contact
 
@@ -43,6 +45,6 @@ I welcome inquiries about research collaborations, postdoctoral opportunities, a
 
 **Email:** [jjorda8@gmu.edu](mailto:jjorda8@gmu.edu)
 
-**Scholarly Profile:** [ORCID](https://orcid.org/0000-0001-5521-360X){target="_blank"}
+**Professional Profiles:** [LinkedIn](https://www.linkedin.com/in/jen-jordan-forest){target="_blank"} · [ORCID](https://orcid.org/0000-0001-5521-360X){target="_blank"}
 
 :::

@@ -24,17 +24,20 @@ title-block-style: none
 
 
 **PhD Candidate, Environmental Science and Policy**  
-[Environmental Science and Policy — George Mason University](https://science.gmu.edu/academics/departments-units/environmental-science-policy)
+[George Mason University Environmental Science and Policy Department](https://science.gmu.edu/academics/departments-units/environmental-science-policy){target="_blank"}
+
+[Forkner Plant-Insect Lab](https://rebeccaeforkner.wixsite.com/rebeccaeforkner/the-lab){target="_blank"}
 
 **Predoctoral Fellow**  
-[Smithsonian Conservation Biology Institute](https://nationalzoo.si.edu/conservation)  
-[ForestGEO Ecosystems and Climate Program](https://sites.google.com/site/forestecoclimlab/home)
+[Smithsonian Conservation Biology Institute](https://nationalzoo.si.edu/conservation){target="_blank"} 
+
+[ForestGEO Ecosystems and Climate Program](https://ecoclimlab.github.io){target="_blank"}
 
 I investigate how climate extremes and disturbance affect tree growth, woody carbon accumulation, and the resilience of eastern U.S. temperate forests as carbon sinks.
 
 My dissertation examines how extreme heat, atmospheric drought, and non-lethal tree damage constrain woody productivity, and whether canopy carbon uptake continues to translate into long-lived woody biomass under climate stress.
 
-[Research](research.qmd) · [Publications](publications.qmd) · [Download CV](Jen_Jordan_CV.pdf) · [ORCID](https://orcid.org/0000-0001-5521-360X)
+[Research](research.qmd) · [Publications](publications.qmd) · [Download CV](Jen_Jordan_CV.pdf) · [ORCID](https://orcid.org/0000-0001-5521-360X){target="_blank"} · [LinkedIn](https://www.linkedin.com/in/jen-jordan-forest){target="_blank"}
 
 :::
 
