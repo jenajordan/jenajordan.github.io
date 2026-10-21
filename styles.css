@@ -1,0 +1,113 @@
+
+/* Jen Jordan — academic website */
+
+:root {
+  --forest: #285943;
+  --forest-dark: #263B31;
+  --sage: #9CAF88;
+  --cream: #FAFAF6;
+  --text: #303A34;
+}
+
+body {
+  background-color: var(--cream);
+  color: var(--text);
+  line-height: 1.7;
+}
+
+/* Dark navigation bar */
+.navbar {
+  background-color: var(--forest-dark) !important;
+  border-bottom: none;
+}
+
+.navbar-brand,
+.navbar .nav-link,
+.navbar .navbar-nav .nav-link,
+.navbar .quarto-navigation-tool {
+  color: #F8F8F4 !important;
+}
+
+.navbar .nav-link:hover,
+.navbar .nav-link.active,
+.navbar .quarto-navigation-tool:hover {
+  color: #C8D9BA !important;
+}
+
+/* Forest banner */
+.hero-banner {
+  min-height: 230px;
+  display: flex;
+  align-items: center;
+  padding: 2rem max(6%, calc((100vw - 1100px) / 2));
+  background-image:
+    linear-gradient(rgba(25, 40, 30, 0.35),
+                    rgba(25, 40, 30, 0.35)),
+    url("images/forest-banner.jpg");
+  background-position: center;
+  background-size: cover;
+  color: white;
+}
+
+.hero-banner h1 {
+  color: white;
+  font-size: clamp(1.8rem, 3vw, 2.8rem);
+  font-weight: 600;
+  max-width: 750px;
+  border: none;
+}
+
+/* Homepage */
+.homepage-content {
+  max-width: 1100px;
+  margin: 3.5rem auto;
+  padding: 0 2rem;
+}
+
+.homepage-content .columns {
+  gap: 2.5rem;
+  align-items: start;
+}
+
+.homepage-content img {
+  border-radius: 5px;
+  width: 100%;
+  height: auto;
+}
+
+.homepage-content h2 {
+  margin-top: 0;
+  color: var(--forest-dark);
+}
+
+/* General typography */
+h1, h2, h3 {
+  color: var(--text);
+  font-weight: 600;
+}
+
+a {
+  color: var(--forest);
+}
+
+a:hover {
+  color: #447B5E;
+}
+
+h2 {
+  border-bottom: 1px solid #DCE5D9;
+  padding-bottom: 0.3rem;
+}
+
+/* Make columns stack on smaller screens */
+@media (max-width: 768px) {
+  .hero-banner {
+    min-height: 170px;
+    padding: 2rem;
+  }
+
+  .homepage-content {
+    margin: 2rem auto;
+    padding: 0 1.25rem;
+  }
+}

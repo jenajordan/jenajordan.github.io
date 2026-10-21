@@ -1,31 +1,59 @@
+
 ---
 title: "Jen Jordan"
+title-block-banner: false
+page-layout: full
 ---
 
-## Forest Ecology \| Climate Extremes \| Carbon Dynamics
+::: {.hero-banner}
+# Forests, climate extremes, and carbon dynamics
+:::
 
-**PhD Candidate, Environmental Science and Policy**\
+::: {.homepage-content}
+
+:::: {.columns}
+
+::: {.column width="35%"}
+
+![Jennifer Jordan participating in terrestrial laser scanning fieldwork at SCBI.](images/jen-fieldwork.png){width=100%}
+
+:::
+
+::: {.column width="65%"}
+
+## Jen Jordan
+
+**PhD Candidate, Environmental Science and Policy**  
 George Mason University
 
-**Predoctoral Fellow**\
-Smithsonian Conservation Biology Institute\
+**Predoctoral Fellow**  
+Smithsonian Conservation Biology Institute  
 ForestGEO Ecosystems and Climate Program
 
+I investigate how climate extremes and disturbance affect tree growth, woody carbon accumulation, and the resilience of eastern U.S. temperate forests as carbon sinks.
 
-![Jennifer Jordan participating in terrestrial laser scanning (TLS) fieldwork at the Smithsonian Conservation Biology Institute.](images/jen-fieldwork.png){width=350px}
+My dissertation examines how extreme heat, atmospheric drought, and non-lethal tree damage constrain woody productivity, and whether canopy carbon uptake continues to translate into long-lived woody biomass under climate stress.
 
-## About Me
+[Research](research.qmd) · [Publications](publications.qmd) · [Download CV](Jen_Jordan_CV.pdf) · [ORCID](https://orcid.org/0000-0001-5521-360X)
 
-I study how climate extremes and disturbance affect forest growth and carbon storage, with a focus on the resilience of eastern U.S. temperate forests as carbon sinks.
+:::
 
-My dissertation examines how extreme heat, atmospheric drought, and non-lethal tree damage affect woody productivity, and whether canopy carbon uptake continues to translate into long-lived woody biomass under increasing climate stress.
+::::
 
-My research integrates long-term forest monitoring, dendrometer measurements, tree-ring analyses, flux-tower observations, and remote sensing.
+## Research Themes
 
-## Research Interests
+**Climate Extremes and Forest Growth**
 
-- Forest responses to climate extremes
-- Ecosystem carbon cycling and forest carbon sinks
-- Tree growth and woody biomass accumulation
-- Carbon uptake–growth decoupling
-- Forest resilience and disturbance
+How the timing, duration, and persistence of extreme heat and atmospheric drought affect woody growth.
+
+**Carbon Uptake and Woody Biomass**
+
+When canopy carbon uptake and long-lived woody biomass accumulation diverge under climate stress.
+
+**Forest Disturbance and Resilience**
+
+How non-lethal crown damage influences tree growth and stand-level forest productivity.
+
+[Learn more about my research →](research.qmd)
+
+:::
