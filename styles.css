@@ -1,21 +1,30 @@
 
-/* Jen Jordan — academic website */
+/* =========================================
+   Jen Jordan — Academic Website
+   ========================================= */
 
+/* Color palette */
 :root {
   --forest: #285943;
   --forest-dark: #263B31;
   --sage: #9CAF88;
   --cream: #FAFAF6;
   --text: #303A34;
+  --muted: #65736A;
+  --divider: #DCE5D9;
 }
 
+/* General page styling */
 body {
   background-color: var(--cream);
   color: var(--text);
   line-height: 1.7;
 }
 
-/* Dark navigation bar */
+/* =========================================
+   Navigation
+   ========================================= */
+
 .navbar {
   background-color: var(--forest-dark) !important;
   border-bottom: none;
@@ -34,58 +43,103 @@ body {
   color: #C8D9BA !important;
 }
 
-/* Forest banner */
+/* =========================================
+   Forest Banner
+   ========================================= */
+
 .hero-banner {
-  min-height: 230px;
+  min-height: 260px;
   display: flex;
   align-items: center;
-  padding: 2rem max(6%, calc((100vw - 1100px) / 2));
+  justify-content: flex-start;
+
+  padding: 2rem 5%;
+
   background-image:
-    linear-gradient(rgba(25, 40, 30, 0.35),
-                    rgba(25, 40, 30, 0.35)),
+    linear-gradient(
+      rgba(25, 40, 30, 0.32),
+      rgba(25, 40, 30, 0.32)
+    ),
     url("images/forest-banner.jpg");
+
   background-position: center;
   background-size: cover;
+  background-repeat: no-repeat;
+
   color: white;
 }
 
 .hero-banner h1 {
   color: white;
-  font-size: clamp(1.8rem, 3vw, 2.8rem);
+  font-size: clamp(1.7rem, 2.4vw, 2.4rem);
   font-weight: 600;
-  max-width: 750px;
+  line-height: 1.2;
+
+  max-width: 480px;
+  margin: 0;
+
   border: none;
 }
 
-/* Homepage */
+/* =========================================
+   Homepage Layout
+   ========================================= */
+
 .homepage-content {
   max-width: 1100px;
-  margin: 3.5rem auto;
+  margin: 3rem auto;
   padding: 0 2rem;
 }
 
+/* Photo and biography columns */
 .homepage-content .columns {
-  gap: 2.5rem;
-  align-items: start;
+  display: flex;
+  gap: 3rem;
+  align-items: flex-start;
 }
 
+/* Left column: photo */
+.homepage-content .columns > .column:first-child {
+  flex: 0 0 30%;
+  max-width: 30%;
+  min-width: 0;
+}
+
+/* Right column: biography */
+.homepage-content .columns > .column:last-child {
+  flex: 1;
+  min-width: 0;
+}
+
+/* Fieldwork photo */
 .homepage-content img {
-  border-radius: 5px;
+  display: block;
   width: 100%;
   height: auto;
+  border-radius: 6px;
 }
 
+/* Homepage section headings */
 .homepage-content h2 {
   margin-top: 0;
   color: var(--forest-dark);
 }
 
-/* General typography */
+/* =========================================
+   Typography
+   ========================================= */
+
 h1, h2, h3 {
   color: var(--text);
   font-weight: 600;
 }
 
+h2 {
+  border-bottom: 1px solid var(--divider);
+  padding-bottom: 0.3rem;
+}
+
+/* Links */
 a {
   color: var(--forest);
 }
@@ -94,20 +148,50 @@ a:hover {
   color: #447B5E;
 }
 
-h2 {
-  border-bottom: 1px solid #DCE5D9;
-  padding-bottom: 0.3rem;
+/* Photo captions */
+.quarto-figure-caption,
+.figure-caption {
+  color: var(--muted);
+  font-size: 0.85rem;
+  line-height: 1.4;
+  margin-top: 0.5rem;
 }
 
-/* Make columns stack on smaller screens */
+/* =========================================
+   Mobile and Tablet Layout
+   ========================================= */
+
 @media (max-width: 768px) {
+
   .hero-banner {
-    min-height: 170px;
+    min-height: 180px;
     padding: 2rem;
+  }
+
+  .hero-banner h1 {
+    font-size: 1.7rem;
+    max-width: 100%;
   }
 
   .homepage-content {
     margin: 2rem auto;
     padding: 0 1.25rem;
+  }
+
+  /* Stack photograph above biography */
+  .homepage-content .columns {
+    flex-direction: column;
+    gap: 1.5rem;
+  }
+
+  .homepage-content .columns > .column:first-child,
+  .homepage-content .columns > .column:last-child {
+    flex: 0 0 100%;
+    max-width: 100%;
+    width: 100%;
+  }
+
+  .homepage-content img {
+    max-width: 350px;
   }
 }
