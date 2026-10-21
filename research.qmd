@@ -1,9 +1,25 @@
 
 ---
 title: "Research"
+page-layout: full
+title-block-style: none
 ---
 
+::: {.hero-banner}
+
+# Research
+
+:::
+
+::: {.interior-content}
+
+
+
 ## Research Overview
+
+:::: {.columns}
+
+::: {.column width="65%"}
 
 My research investigates how climate extremes and disturbance affect forest growth, woody carbon accumulation, and the resilience of eastern U.S. temperate forests as carbon sinks.
 
@@ -11,7 +27,15 @@ A central question motivating my work is whether forests experiencing increasing
 
 My dissertation, *Hot-Dry Extremes, Disturbance, and Carbon Source–Sink Decoupling in Eastern Temperate Forests*, addresses this question through three complementary studies, integrating long-term forest observations, tree-ring and dendrometer measurements, flux-tower data, and remote sensing.
 
-![Jen Jordan conducting forest ecology fieldwork.](images/research-fieldwork.jpeg){width=65% fig-align="center"}
+:::
+
+::: {.column width="35%"}
+
+![Tree-growth monitoring at the SCBI ForestGEO plot.](images/research-fieldwork.jpeg){width=100%}
+
+:::
+
+::::
 
 ## Climate Extremes and Tree Growth
 
@@ -66,3 +90,5 @@ My work combines field-based ecological measurements with quantitative analyses 
 PhD in Environmental Science and Policy, George Mason University
 
 Smithsonian Conservation Biology Institute — ForestGEO Ecosystems and Climate Program
+
+:::

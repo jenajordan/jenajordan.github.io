@@ -1,7 +1,18 @@
 
 ---
-title: "Publications & Research Outputs"
+title: "Publications & Manuscripts"
+page-layout: full
+title-block-style: none
 ---
+
+::: {.hero-banner}
+
+# Publications & Manuscripts
+
+:::
+
+::: {.interior-content}
+
 
 ## Peer-Reviewed Publications
 
@@ -40,3 +51,5 @@ Jordan, J. A., & Nadel, S. (1991). End-Use Industrial Energy Demand & Conservati
 ## Scholarly Profile
 
 [ORCID: 0000-0001-5521-360X](https://orcid.org/0000-0001-5521-360X)
+
+:::
