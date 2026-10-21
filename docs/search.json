@@ -1,5 +1,26 @@
 [
   {
+    "objectID": "cv.html",
+    "href": "cv.html",
+    "title": "CV & Contact",
+    "section": "",
+    "text": "My academic CV will be available here."
+  },
+  {
+    "objectID": "cv.html#curriculum-vitae",
+    "href": "cv.html#curriculum-vitae",
+    "title": "CV & Contact",
+    "section": "",
+    "text": "My academic CV will be available here."
+  },
+  {
+    "objectID": "cv.html#contact",
+    "href": "cv.html#contact",
+    "title": "CV & Contact",
+    "section": "Contact",
+    "text": "Contact\nGeorge Mason University\nSmithsonian Conservation Biology Institute\nORCID\nLinkedIn"
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Jen Jordan",
@@ -26,5 +47,40 @@
     "title": "Jen Jordan",
     "section": "Research Interests",
     "text": "Research Interests\n\nForest responses to climate extremes\nEcosystem carbon cycling and forest carbon sinks\nTree growth and woody biomass accumulation\nCarbon uptake–growth decoupling\nForest resilience and disturbance"
+  },
+  {
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "Jen Jordan",
+    "section": "",
+    "text": "title: “Research”\n\n## Climate Extremes and Forest Growth\nI investigate how the timing, duration, and persistence of extreme heat and elevated vapor pressure deficit influence woody growth in eastern U.S. temperate forests.\nUsing long-term ForestGEO observations and high-frequency dendrometer measurements, I examine how forest growth responds to environmental stress within and across growing seasons.\n## Carbon Uptake and Woody Biomass Accumulation\nA central focus of my research is understanding when canopy carbon uptake and woody growth diverge under climate stress.\nI integrate tree-growth observations, flux-tower measurements, and remote sensing to investigate whether photosynthetic carbon uptake reliably translates into long-lived woody biomass.\n## Forest Disturbance and Structural Damage\nI also examine how non-lethal crown damage affects individual tree growth and stand-level aboveground woody productivity.\nThis research draws on long-term monitoring at the Smithsonian Conservation Biology Institute’s ForestGEO forest dynamics plot."
+  },
+  {
+    "objectID": "publications.html",
+    "href": "publications.html",
+    "title": "Publications & Manuscripts",
+    "section": "",
+    "text": "Publications will be listed here."
+  },
+  {
+    "objectID": "publications.html#peer-reviewed-publications",
+    "href": "publications.html#peer-reviewed-publications",
+    "title": "Publications & Manuscripts",
+    "section": "",
+    "text": "Publications will be listed here."
+  },
+  {
+    "objectID": "publications.html#manuscripts-in-preparation",
+    "href": "publications.html#manuscripts-in-preparation",
+    "title": "Publications & Manuscripts",
+    "section": "Manuscripts in Preparation",
+    "text": "Manuscripts in Preparation\nResearch on non-lethal crown damage and woody productivity in eastern temperate forests."
+  },
+  {
+    "objectID": "publications.html#scholarly-profiles",
+    "href": "publications.html#scholarly-profiles",
+    "title": "Publications & Manuscripts",
+    "section": "Scholarly Profiles",
+    "text": "Scholarly Profiles\nORCID"
   }
 ]
