@@ -11,6 +11,9 @@ George Mason University
 Smithsonian Conservation Biology Institute\
 ForestGEO Ecosystems and Climate Program
 
+
+![](images/jen-fieldwork.png){width=300px fig-alt="Jen Jordan conducting terrestrial laser scanning (TLS) fieldwork at the Smithsonian Conservation Biology Institute (SCBI)."}
+
 ## About Me
 
 I study how climate extremes and disturbance affect forest growth and carbon storage, with a focus on the resilience of eastern U.S. temperate forests as carbon sinks.
