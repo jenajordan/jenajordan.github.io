@@ -138,13 +138,32 @@ body:has(.hero-banner) #quarto-content {
   border-radius: 6px;
 }
 
-/* Remove underline beneath Jen Jordan */
-.homepage-content .columns h2 {
+/* Homepage name — prominent heading */
+#homepage-name {
+  color: var(--forest-dark) !important;
+  font-size: 3.1rem !important;
+  font-weight: 700 !important;
+  letter-spacing: -0.025em;
+  line-height: 1.15;
+
   margin-top: 0;
-  margin-bottom: 0.8rem;
-  padding-bottom: 0;
-  border-bottom: none;
-  color: var(--forest-dark);
+  margin-bottom: 1.25rem;
+  padding-bottom: 0.7rem;
+
+  border-bottom: none !important;
+  position: relative;
+}
+
+/* Sage-green underline beneath name */
+#homepage-name::after {
+  content: "";
+  position: absolute;
+  left: 0;
+  bottom: 0;
+  width: 85px;
+  height: 3px;
+  background-color: var(--sage);
+  border-radius: 2px;
 }
 
 /* =========================================
@@ -200,22 +219,32 @@ a:hover {
     padding: 0 1.25rem;
   }
 
-  /* Stack photograph above biography */
-  .homepage-content .columns {
-    flex-direction: column;
-    gap: 1.5rem;
-  }
+/* Full-width photograph above biography on mobile */
+.homepage-content .columns {
+  display: block !important;
+}
 
-  .homepage-content .columns > .column:first-child,
-  .homepage-content .columns > .column:last-child {
-    flex: 0 0 100%;
-    max-width: 100%;
-    width: 100%;
-  }
+.homepage-content .columns > .column {
+  width: 100% !important;
+  max-width: 100% !important;
+  flex: none !important;
+  padding: 0 !important;
+}
 
-  .homepage-content img {
-    max-width: 350px;
-  }
+.homepage-content .columns img {
+  width: 100% !important;
+  max-width: none !important;
+  height: auto;
+}
+
+.homepage-content .columns > .column:last-child {
+  margin-top: 1.5rem;
+}
+
+/* Slightly smaller name on phones */
+#homepage-name {
+  font-size: 2.4rem !important;
+}
 }
 
 /* =========================================

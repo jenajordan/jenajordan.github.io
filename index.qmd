@@ -1,6 +1,6 @@
 ---
 title: "Jen Jordan"
-page-layout: full
+page-layout: custom
 title-block-style: none
 ---
 
@@ -14,30 +14,23 @@ title-block-style: none
 
 ::: {.column width="35%"}
 
-![](images/jen-fieldwork.png){width=100% fig-alt="Jen Jordan participating in terrestrial laser scanning fieldwork with colleagues at SCBI"}
+![Jen Jordan participating in fieldwork with colleagues at SCBI](images/jen-fieldwork.png){width="100%"}
 
 :::
 
 ::: {.column width="65%"}
 
-## Jen Jordan
-
+## Jen Jordan {#homepage-name}
 
 **PhD Candidate, Environmental Science and Policy**  
-[George Mason University Environmental Science and Policy Department](https://science.gmu.edu/academics/departments-units/environmental-science-policy){target="_blank"}
-
-[Forkner Plant-Insect Lab](https://rebeccaeforkner.wixsite.com/rebeccaeforkner/the-lab){target="_blank"}
+[George Mason University](https://science.gmu.edu/academics/departments-units/environmental-science-policy){target="_blank"} · [Forkner Plant–Insect Lab](https://rebeccaeforkner.wixsite.com/rebeccaeforkner/the-lab){target="_blank"}
 
 **Predoctoral Fellow**  
-[Smithsonian Conservation Biology Institute](https://nationalzoo.si.edu/conservation){target="_blank"} 
+[Smithsonian Conservation Biology Institute](https://nationalzoo.si.edu/conservation){target="_blank"} · [ForestGEO Ecosystems and Climate Program](https://ecoclimlab.github.io){target="_blank"}
 
-[ForestGEO Ecosystems and Climate Program](https://ecoclimlab.github.io){target="_blank"}
+My research examines how climate extremes and disturbance affect tree growth and woody carbon accumulation in eastern temperate forests. My dissertation integrates tree-growth records, field measurements, and canopy productivity data to investigate how heat, atmospheric drought, and structural damage constrain forest carbon storage.
 
-I investigate how climate extremes and disturbance affect tree growth, woody carbon accumulation, and the resilience of eastern U.S. temperate forests as carbon sinks.
-
-My dissertation examines how extreme heat, atmospheric drought, and non-lethal tree damage constrain woody productivity, and whether canopy carbon uptake continues to translate into long-lived woody biomass under climate stress.
-
-[Research](research.qmd) · [Publications](publications.qmd) · [Download CV](Jen_Jordan_CV.pdf) · [ORCID](https://orcid.org/0000-0001-5521-360X){target="_blank"} · [LinkedIn](https://www.linkedin.com/in/jen-jordan-forest){target="_blank"}
+[Research](research.qmd){target="_blank"} · [Publications](publications.qmd){target="_blank"} · [Download CV](Jen_Jordan_CV.pdf){target="_blank"} · [ORCID](https://orcid.org/0000-0001-5521-360X){target="_blank"} · [LinkedIn](https://www.linkedin.com/in/jen-jordan-forest){target="_blank"} · [GitHub](https://github.com/jenajordan){target="_blank"}
 
 :::
 
