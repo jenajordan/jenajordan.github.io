@@ -1,0 +1,23 @@
+---
+
+title: "Research"
+
+---
+
+\## Climate Extremes and Forest Growth
+
+I investigate how the timing, duration, and persistence of extreme heat and elevated vapor pressure deficit influence woody growth in eastern U.S. temperate forests.
+
+Using long-term ForestGEO observations and high-frequency dendrometer measurements, I examine how forest growth responds to environmental stress within and across growing seasons.
+
+\## Carbon Uptake and Woody Biomass Accumulation
+
+A central focus of my research is understanding when canopy carbon uptake and woody growth diverge under climate stress.
+
+I integrate tree-growth observations, flux-tower measurements, and remote sensing to investigate whether photosynthetic carbon uptake reliably translates into long-lived woody biomass.
+
+\## Forest Disturbance and Structural Damage
+
+I also examine how non-lethal crown damage affects individual tree growth and stand-level aboveground woody productivity.
+
+This research draws on long-term monitoring at the Smithsonian Conservation Biology Institute's ForestGEO forest dynamics plot.
