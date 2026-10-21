@@ -138,32 +138,30 @@ body:has(.hero-banner) #quarto-content {
   border-radius: 6px;
 }
 
-/* Homepage name — prominent heading */
-#homepage-name {
-  color: var(--forest-dark) !important;
-  font-size: 3.1rem !important;
+/* Homepage name — style only the heading */
+.homepage-content #homepage-name {
+  font-size: 3rem !important;
   font-weight: 700 !important;
-  letter-spacing: -0.025em;
-  line-height: 1.15;
+  color: var(--forest-dark) !important;
+  line-height: 1.15 !important;
+  letter-spacing: -0.02em;
 
-  margin-top: 0;
-  margin-bottom: 1.25rem;
-  padding-bottom: 0.7rem;
+  margin: 0 0 1.2rem 0 !important;
+  padding: 0 0 0.65rem 0 !important;
+  border: none !important;
 
-  border-bottom: none !important;
+  display: block;
   position: relative;
 }
 
-/* Sage-green underline beneath name */
-#homepage-name::after {
+/* Short accent line under name */
+.homepage-content #homepage-name::after {
   content: "";
-  position: absolute;
-  left: 0;
-  bottom: 0;
+  display: block;
   width: 85px;
   height: 3px;
   background-color: var(--sage);
-  border-radius: 2px;
+  margin-top: 0.65rem;
 }
 
 /* =========================================
@@ -241,9 +239,8 @@ a:hover {
   margin-top: 1.5rem;
 }
 
-/* Slightly smaller name on phones */
-#homepage-name {
-  font-size: 2.4rem !important;
+.homepage-content #homepage-name {
+  font-size: 2.3rem !important;
 }
 }
 
