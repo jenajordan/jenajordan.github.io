@@ -17,7 +17,7 @@ title-block-style: none
 
 ## Research Overview
 
-:::: {.columns}
+:::: {.columns .research-layout}
 
 ::: {.column width="65%"}
 

@@ -300,3 +300,19 @@ a:hover {
     padding: 0 1.25rem;
   }
 }
+
+
+/* Final spacing adjustment for Research Overview */
+
+/* Add breathing room between the text and photograph */
+#research-overview + .columns > .column:first-child {
+  padding-right: 2.5rem !important;
+  box-sizing: border-box;
+}
+
+/* Remove extra padding when columns stack on mobile */
+@media (max-width: 768px) {
+  #research-overview + .columns > .column:first-child {
+    padding-right: 0 !important;
+  }
+}
