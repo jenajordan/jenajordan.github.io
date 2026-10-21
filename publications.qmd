@@ -1,15 +1,42 @@
+
 ---
-title: "Publications & Manuscripts"
+title: "Publications & Research Outputs"
 ---
 
 ## Peer-Reviewed Publications
 
-Publications will be listed here.
+**Jordan, J. A.** (2025). Marine Carbon Dioxide Removal: NOAA Policy Priorities for Efficacy and Risk Reduction. *Journal of Science Policy & Governance*. [https://doi.org/10.38126/jspg260103](https://doi.org/10.38126/jspg260103)
+
+Kim, A. Y., Herrmann, V., Barreto, R., Calkins, B., Gonzalez-Akre, E., Johnson, D. J., **Jordan, J. A.**, Magee, L., McGregor, I. R., Montero, N., et al. (2022). Implementing GitHub Actions continuous integration to reduce error rates in ecological data collection. *Methods in Ecology and Evolution*. [https://doi.org/10.1111/2041-210X.13982](https://doi.org/10.1111/2041-210X.13982)
 
 ## Manuscripts in Preparation
 
-Research on non-lethal crown damage and woody productivity in eastern temperate forests.
+**Jordan, J.**, Morreale, L. L., McShea, W. J., Anderson-Teixeira, K. J., Kim, A., Magee, L., Shue, J., Bourg, N., & Mitre, D.
 
-## Scholarly Profiles
+**Non-lethal crown damage is associated with reduced tree growth and lowered woody productivity in a temperate deciduous forest.**
 
-[ORCID](https://orcid.org/)
+*Manuscript in preparation.*
+
+This study examines how non-lethal crown damage is associated with reduced individual-tree growth and stand-level aboveground woody productivity in a temperate deciduous forest.
+
+Using long-term forest monitoring data from the Smithsonian Conservation Biology Institute (SCBI) ForestGEO plot, the research evaluates how structural damage can affect forest carbon accumulation even when trees survive.
+
+## Research Datasets
+
+**SCBI-ForestGEO/Dendrobands: First Official Release (v2021.10.05)** (2021).
+
+*Zenodo.* Contributor to the Smithsonian ForestGEO dendroband dataset.
+
+**SCBI-ForestGEO/SCBImortality: First Official Release (v2021.10.05)** (2021).
+
+*Zenodo.* Contributor to the Smithsonian ForestGEO tree mortality dataset.
+
+## Additional Publications
+
+Jordan, J. A., & Nadel, S. (1992). Does the Rat Smell the Cheese? A Preliminary Evaluation of Financial Incentives Provided to Utilities. In *Regulatory Incentives for Demand-Side Management*.
+
+Jordan, J. A., & Nadel, S. (1991). End-Use Industrial Energy Demand & Conservation Potential. In *America's Energy Choices: Investing in a Strong Economy and a Clean Environment*.
+
+## Scholarly Profile
+
+[ORCID: 0000-0001-5521-360X](https://orcid.org/0000-0001-5521-360X)
