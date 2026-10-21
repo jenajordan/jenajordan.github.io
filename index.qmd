@@ -20,7 +20,7 @@ title-block-style: none
 
 ::: {.column width="65%"}
 
-## Jen Jordan {#homepage-name}
+<h2 id="homepage-name">Jen Jordan</h2>
 
 **PhD Candidate, Environmental Science and Policy**  
 [George Mason University](https://science.gmu.edu/academics/departments-units/environmental-science-policy){target="_blank"} · [Forkner Plant–Insect Lab](https://rebeccaeforkner.wixsite.com/rebeccaeforkner/the-lab){target="_blank"}
