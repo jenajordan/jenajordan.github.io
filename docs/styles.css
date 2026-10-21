@@ -43,22 +43,41 @@ body {
   color: #C8D9BA !important;
 }
 
+
 /* =========================================
-   Forest Banner
+   Full-width forest banner
    ========================================= */
 
+/* Remove the duplicate page title */
+body:has(.hero-banner) #title-block-header {
+  display: none;
+}
+
+/* Remove extra space above the banner */
+body:has(.hero-banner) #quarto-content {
+  padding-top: 0;
+}
+
+/* Full browser-width banner */
 .hero-banner {
-  min-height: 260px;
+  width: 100vw;
+  max-width: none;
+  min-height: 280px;
+
+  position: relative;
+  left: 50%;
+  margin-left: -50vw;
+
   display: flex;
   align-items: center;
   justify-content: flex-start;
 
-  padding: 2rem 5%;
+  padding: 2.5rem max(5%, calc((100vw - 1100px) / 2));
 
   background-image:
     linear-gradient(
-      rgba(25, 40, 30, 0.32),
-      rgba(25, 40, 30, 0.32)
+      rgba(25, 40, 30, 0.30),
+      rgba(25, 40, 30, 0.30)
     ),
     url("images/forest-banner.jpg");
 
@@ -69,49 +88,49 @@ body {
   color: white;
 }
 
+/* Banner headline */
 .hero-banner h1 {
   color: white;
-  font-size: clamp(1.7rem, 2.4vw, 2.4rem);
+  font-size: clamp(1.8rem, 2.5vw, 2.5rem);
   font-weight: 600;
   line-height: 1.2;
 
-  max-width: 480px;
+  max-width: 650px;
   margin: 0;
 
   border: none;
 }
 
-/* =========================================
-   Homepage Layout
-   ========================================= */
 
+
+/* Homepage content beneath banner */
 .homepage-content {
   max-width: 1100px;
   margin: 3rem auto;
   padding: 0 2rem;
 }
 
-/* Photo and biography columns */
+/* Photo and biography layout */
 .homepage-content .columns {
   display: flex;
-  gap: 3rem;
+  gap: 2.5rem;
   align-items: flex-start;
 }
 
-/* Left column: photo */
+/* Photo column */
 .homepage-content .columns > .column:first-child {
   flex: 0 0 30%;
   max-width: 30%;
   min-width: 0;
 }
 
-/* Right column: biography */
+/* Biography column */
 .homepage-content .columns > .column:last-child {
   flex: 1;
   min-width: 0;
 }
 
-/* Fieldwork photo */
+/* Keep the fieldwork photo neatly sized */
 .homepage-content img {
   display: block;
   width: 100%;
@@ -119,9 +138,12 @@ body {
   border-radius: 6px;
 }
 
-/* Homepage section headings */
-.homepage-content h2 {
+/* Remove underline beneath Jen Jordan */
+.homepage-content .columns h2 {
   margin-top: 0;
+  margin-bottom: 0.8rem;
+  padding-bottom: 0;
+  border-bottom: none;
   color: var(--forest-dark);
 }
 

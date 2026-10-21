@@ -1,8 +1,7 @@
-
 ---
 title: "Jen Jordan"
-title-block-banner: false
 page-layout: full
+title-block-style: none
 ---
 
 ::: {.hero-banner}
@@ -15,7 +14,7 @@ page-layout: full
 
 ::: {.column width="35%"}
 
-![Jennifer Jordan participating in terrestrial laser scanning fieldwork at SCBI.](images/jen-fieldwork.png){width=100%}
+![](images/jen-fieldwork.png){width=100% fig-alt="Jen Jordan participating in terrestrial laser scanning fieldwork with colleagues at SCBI"}
 
 :::
 
