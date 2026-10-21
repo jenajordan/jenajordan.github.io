@@ -12,7 +12,7 @@ Smithsonian Conservation Biology Institute\
 ForestGEO Ecosystems and Climate Program
 
 
-![](images/jen-fieldwork.png){width=300px fig-alt="Jen Jordan conducting terrestrial laser scanning (TLS) fieldwork at the Smithsonian Conservation Biology Institute (SCBI)."}
+![Jennifer Jordan participating in terrestrial laser scanning (TLS) fieldwork at the Smithsonian Conservation Biology Institute.](images/jen-fieldwork.png){width=350px}
 
 ## About Me
 
