@@ -316,3 +316,30 @@ a:hover {
     padding-right: 0 !important;
   }
 }
+
+/* Research photo: fixed size and separation */
+.research-layout {
+  display: grid !important;
+  grid-template-columns: minmax(0, 1fr) 240px !important;
+  gap: 64px !important;
+  align-items: start;
+}
+
+.research-photo {
+  width: 240px !important;
+  max-width: 240px !important;
+}
+
+.research-photo img,
+img[src$="research-fieldwork.jpeg"] {
+  width: 240px !important;
+  max-width: 100% !important;
+  height: auto !important;
+}
+
+@media (max-width: 768px) {
+  .research-layout {
+    grid-template-columns: minmax(0, 1fr) !important;
+    gap: 24px !important;
+  }
+}
