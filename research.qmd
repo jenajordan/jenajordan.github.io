@@ -13,13 +13,11 @@ title-block-style: none
 
 ::: {.interior-content}
 
-
-
 ## Research Overview
 
-:::: {.columns .research-layout}
+:::: {.research-layout}
 
-::: {.column width="65%"}
+::: {.research-text}
 
 My research investigates how climate extremes and disturbance affect forest growth, woody carbon accumulation, and the resilience of eastern U.S. temperate forests as carbon sinks.
 
@@ -29,7 +27,7 @@ My dissertation, *Hot-Dry Extremes, Disturbance, and Carbon Source–Sink Decoup
 
 :::
 
-::: {.column width="35%"}
+::: {.research-photo}
 
 ![Tree-growth monitoring at the SCBI ForestGEO plot.](images/research-fieldwork.jpeg){width=100%}
 

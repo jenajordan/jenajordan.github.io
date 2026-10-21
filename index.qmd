@@ -5,7 +5,7 @@ title-block-style: none
 ---
 
 ::: {.hero-banner}
-# Forests, climate extremes, and carbon dynamics
+# Forest Ecology & Carbon Dynamics
 :::
 
 ::: {.homepage-content}
@@ -24,11 +24,11 @@ title-block-style: none
 
 
 **PhD Candidate, Environmental Science and Policy**  
-[George Mason University](https://www.gmu.edu/)
+[Environmental Science and Policy — George Mason University](https://science.gmu.edu/academics/departments-units/environmental-science-policy)
 
 **Predoctoral Fellow**  
 [Smithsonian Conservation Biology Institute](https://nationalzoo.si.edu/conservation)  
-[ForestGEO Ecosystems and Climate Program](https://forestgeo.si.edu/)
+[ForestGEO Ecosystems and Climate Program](https://sites.google.com/site/forestecoclimlab/home)
 
 I investigate how climate extremes and disturbance affect tree growth, woody carbon accumulation, and the resilience of eastern U.S. temperate forests as carbon sinks.
 
